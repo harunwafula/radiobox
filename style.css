@@ -13,10 +13,8 @@
     padding: 1.5em;
     margin : 3.5em;
     background-color: blue;
-    border-color: #1EAEDB;
     color :#FFF;
-    border-color: #1EAEDB
-  
+    border: none;
 }
 
 .container{
